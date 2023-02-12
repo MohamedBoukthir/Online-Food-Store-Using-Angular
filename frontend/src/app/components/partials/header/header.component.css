@@ -2,17 +2,20 @@ header{
   position: relative;
   background: white;
   padding: 0;
-  border-bottom: 1px solid #b57bee;
+  border-bottom: 1px solid #2d2b27;
+  background-color: #2d2b27;
 }
 
 a{
-  color:  #392D69;
+  color:  #c35e39;
 }
 
 a:hover{
-  background: #b57bee;
+  background: #d6a076;
   color: white;
   cursor: pointer;
+  border-radius: 70px;
+
 }
 
 .container{
@@ -39,7 +42,7 @@ ul a{
 }
 
 a span{
-  background: #9152d1;
+  background: #2d2b27;
   color: white;
   padding: 0.1rem 0.45rem;
   border-radius: 100rem;
@@ -65,3 +68,5 @@ a span{
   width: 100%;
   min-width: 8rem;
 }
+
+

@@ -17,7 +17,7 @@ li a{
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  color: #392D69;
+  color: #2d2b27;
 }
 
 li a:hover{
@@ -88,5 +88,5 @@ li a img{
   color: #414141;
   margin-top: 0.7rem;
   font-size: 1.1rem;
-  
+
 }
